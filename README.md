@@ -1,4 +1,4 @@
-![Headshot of Donna Vitan smiling, wearing a plain black t-shirt with a solid lavendar background](/donna-vitan-20200712-github-banner.jpg)
+![Headshot of Donna Vitan smiling, wearing a plain black t-shirt with a solid lavendar background](donna-vitan-20200712-github-banner.jpg)
 
 
 ### Hey, my name is Donna Vitan!
