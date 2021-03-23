@@ -4,7 +4,8 @@
 
 I'm a user experience, interaction, and visual designer committed to inclusive design. I support products, projects, and cross-functional teams as a champion for best practices, web standards compliance, and accessibility. And most of all, I'm passionate about design systems, design tools and processes as the means to express inclusive design at scale.
 
-- 🌱 I’m currently learning about and working on Design Tokens
+- 🤓 Recently promoted to Design Lead, TELUS Design System - squee!
+- 🌱 I’m still learning about about Design Tokens, and getting to implement it
 - 🤔 I’m curious about getting started with live streaming as a designer
 - 💬 Ask me about Design Systems, designing with Sketch app, building Sketch Cloud libraries
 <!--
