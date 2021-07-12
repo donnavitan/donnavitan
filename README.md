@@ -4,10 +4,12 @@
 
 I'm a user experience, interaction, and visual designer committed to inclusive design. I support products, projects, and cross-functional teams as a champion for best practices, web standards compliance, and accessibility. And most of all, I'm passionate about design systems, design tools and processes as the means to express inclusive design at scale.
 
-- 🤓 Recently promoted to Design Lead, TELUS Design System - squee!
-- 🌱 I’m still learning about about Design Tokens, and getting to implement it
-- 🤔 I’m curious about getting started with live streaming as a designer
-- 💬 Ask me about Design Systems, designing with Sketch app, building Sketch Cloud libraries
+- 🤓 Design Lead, Designs Systems, [@TelusDigital](https://twitter.com/telusdigital) - squee!
+- 📝 Format Editor, [@DesignTokens](https://twitter.com/DesignTokens) W3C Working Group
+- 🧠 Toronto Chapter Lead, Design Systems Community [@DesignSystemsC](https://twitter.com/DesignSystemsC) [@DSCC_Tor](https://twitter.com/dscc_tor)
+- 📺 Live streamer, Design Systems Social Club [@DSSocialClub](https://twitter.com/DSSocialClub)
+- 🤯 Speaker at Clarity Conference 2021 [@Clarity_Conf](https://twitter.com/Clarity_conf) (upcoming), [@A11yTO](https://twitter.com/Clarity_conf) Conference 2020
+- 💬 Ask me about Design Systems, designing with Figma and Sketch
 <!--
 **donnavitan/donnavitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m curious about getting started with live streaming as a designer
+
   -->
